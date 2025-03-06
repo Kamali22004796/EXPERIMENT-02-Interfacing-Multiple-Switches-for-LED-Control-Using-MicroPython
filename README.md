@@ -106,7 +106,8 @@ while True:
 
 ## TIMING DIGAGRAM 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5be68ef8-0d3a-4864-9f8b-d8f8f7b7fbfc)
+
 
 ## RESULTS
 
