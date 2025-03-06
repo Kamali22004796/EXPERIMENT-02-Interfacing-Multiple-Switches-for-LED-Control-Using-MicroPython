@@ -96,15 +96,17 @@ while True:
 ```
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/4b08357a-ede8-45a0-a740-fc603927b4b4)
+![image](https://github.com/user-attachments/assets/e525d8ea-c07e-475c-ab16-a057c54b5ea7)
 
+![image](https://github.com/user-attachments/assets/b1ce2445-11b2-47f5-ad6c-6c5af49e76a1)
 
-![image](https://github.com/user-attachments/assets/eecbe66b-b82c-46c7-af2d-97944cda8b9d)
+![image](https://github.com/user-attachments/assets/adf2249e-eddb-450c-b19c-cc4e73bfc288)
 
+![image](https://github.com/user-attachments/assets/be5ef5c9-9f42-4cb6-be46-bc6bbf32f5eb)
 
 ## TIMING DIGAGRAM 
 
-![image](https://github.com/user-attachments/assets/ffde229b-2d4b-48e4-8e04-029ce9261d7c)
+![Uploading image.png…]()
 
 ## RESULTS
 
